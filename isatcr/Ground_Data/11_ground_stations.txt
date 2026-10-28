@@ -1,0 +1,58 @@
+                                                                                                                                                                                                                                                                            31 Jul 2023 09:34:51
+Civil Air Patrol Use Only
+Place-Fairbanks, Houston, Brasilia, Buenos Aires, Oslo, Rome, Nairobi, Cape Town, Dubai, Beijing, Canberra:  LLA Position
+
+
+Lat (deg)    Lon (deg)    Alt (km)
+---------    ---------    --------
+    64.838     -147.716    0.000000
+
+
+Lat (deg)    Lon (deg)    Alt (km)
+---------    ---------    --------
+    29.760      -95.370    0.000000
+
+
+Lat (deg)    Lon (deg)    Alt (km)
+---------    ---------    --------
+   -15.794      -47.883    0.000000
+
+
+Lat (deg)    Lon (deg)    Alt (km)
+---------    ---------    --------
+   -34.604      -58.382    0.000000
+
+
+Lat (deg)    Lon (deg)    Alt (km)
+---------    ---------    --------
+    59.914       10.752    0.000000
+
+
+Lat (deg)    Lon (deg)    Alt (km)
+---------    ---------    --------
+    41.903       12.496    0.000000
+
+
+Lat (deg)    Lon (deg)    Alt (km)
+---------    ---------    --------
+    -1.283       36.817    0.000000
+
+
+Lat (deg)    Lon (deg)    Alt (km)
+---------    ---------    --------
+   -33.925       18.424    0.000000
+
+
+Lat (deg)    Lon (deg)    Alt (km)
+---------    ---------    --------
+    25.252       55.280    0.000000
+
+
+Lat (deg)    Lon (deg)    Alt (km)
+---------    ---------    --------
+    39.904      116.407    0.000000
+
+
+Lat (deg)    Lon (deg)    Alt (km)
+---------    ---------    --------
+   -35.281      149.130    0.000000
